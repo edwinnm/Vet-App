@@ -46,3 +46,9 @@ git add dist -f
 git commit -m 'Adding dist'.
 git subtree push --prefix dist origin gh-pages
 ```
+
+## Usage
+
+- Go to [this page](https://edwinnm.github.io/Vet-App/) for a demonstration.
+
+  ![01](./assets/demo.png)
